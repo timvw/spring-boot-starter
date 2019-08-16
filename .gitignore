@@ -3,6 +3,7 @@
 .settings
 .flattened-pom.xml
 .idea
+.vscode
 *.iml
 *target/
 twitter4j.properties

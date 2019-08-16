@@ -1,0 +1,6 @@
+.flattened-pom.xml
+.idea
+*.iml
+*target/
+twitter4j.properties
+embedded_*/
